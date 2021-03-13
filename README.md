@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bchad-dev
-- 👀 I’m interested in ...
+- 👀 I’m interested in investing and coding
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me email bartholomewpeterchadwick@gmail.com
